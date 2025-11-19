@@ -157,7 +157,7 @@ pip install -r requirements.txt
 2. Executar o notebook principal:
 
 ```
-Notebook2.ipynb
+Entrega_Final_Data_ScienceIII.ipynb
 ```
 
 ---
